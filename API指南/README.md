@@ -79,7 +79,7 @@
 类似于axis, bg, legend等。[详细的挂件请戳我](../plugin/wedget.md)
 
 #### container
-类型:`object`
+类型：`object`
 
 DOM结点。
 
