@@ -1,3 +1,4 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [简介](chapter1.md)
+* [核心core](chapter2.md)
