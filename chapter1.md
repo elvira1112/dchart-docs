@@ -34,3 +34,8 @@
     chart.render(data);
 ```
 
+6. 案例
+
+
+
+
