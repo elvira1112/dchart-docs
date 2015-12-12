@@ -11,6 +11,6 @@
        * [背景](plugin/wedget/bg.md)
        * [图例](plugin/wedget/legend.md)
        * [扇形](plugin/wedget/arc.md)
-       * [浮动标签](plugin/wedget/float-tag.md)
+       * [浮动标签](plugin/wedget/floatTag.md)
    * [数据](plugin/data.md)
 
