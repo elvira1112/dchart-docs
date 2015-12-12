@@ -34,14 +34,24 @@
 #### options.withAnimated
 类型：`number`
 
+图表动画的开关。
+
 #### options.animatedEasing
 类型：`number`
+
+图表动画缓动方式。只有当动画开关开启才有作用。
 
 #### options.animatedTiming
 类型：`number`
 
+图表动画时间。只有当动画开关开启才有作用。
+
 #### options.withInteract
 类型：`number`
 
+图表交互开关。
+
 #### options.theme
 类型：`number`
+
+用于设置图表主题。
