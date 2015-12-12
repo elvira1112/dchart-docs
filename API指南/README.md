@@ -19,5 +19,5 @@
 #### options.margin
 类型：`object`
 
-类似于css中的margin, 用来设置图表中的边距。
+类似于css中的margin, 用来设置图表中的边距。[图表结构]()
 
