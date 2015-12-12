@@ -82,4 +82,9 @@
 | after.render | 无 | 在核心绘制后做的事情 |
 | start.afterrender | 无 | 在afterRende前做的事情 |
 | end.afterrender | 无 | 在afterRender后做的事情 |
+| error | error | 图表出错 |
+| series_click | data, event | 点击核心单元事件 |
+| series_mouseenter | data, event | 鼠标进入核心单元事件 |
+| series_mouseover | data, event | 鼠标移过核心单元事件 |
+| series_mouseleave | data, event | 鼠标核心单元事件 |
 
