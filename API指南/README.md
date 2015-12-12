@@ -76,7 +76,15 @@
 #### type
 类型：`string`
 
-类似于axis, bg, legend等。详细的挂件见
+类似于axis, bg, legend等。[详细的挂件请戳我](../plugin/wedget.md)
+
+#### container
+类型:`object`
+
+DOM结点。
+
+#### options
+
 
 
 
