@@ -55,3 +55,29 @@
 类型：`number`
 
 用于设置图表主题。
+
+## chart.data([data])
+
+用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
+
+## chart.render([data])
+
+图表绘制命令，可以带数据，也可以不带（一般不带是已经用过chart.data(data)方法了）
+
+## chart.renderCom(id, type, container, options) 
+
+图表绘制功能性挂件命令
+
+#### id
+类型：`string`
+
+功能性挂件id。
+
+#### type
+类型：`string`
+
+类似于axis, bg, legend等。详细的挂件见
+
+
+
+## chart.destroy()
