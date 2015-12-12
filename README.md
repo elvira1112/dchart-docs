@@ -1,3 +1,3 @@
-# My Awesome Book
+# dchart-docs
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+dchart是一个专注于二维图表的组件库，属于DataV的一部分。
