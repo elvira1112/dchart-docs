@@ -85,7 +85,8 @@ DOM结点。
 
 #### options
 
-
+挂件配置，详情见个挂件的介绍。
+- [轴]()
 
 
 ## chart.destroy()
