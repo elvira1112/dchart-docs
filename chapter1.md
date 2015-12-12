@@ -36,6 +36,10 @@
 
 6. 案例
 
+如果你有源码的话，在根目录运行cube start, 然后访问http://localhost:9999/examples/index.html
+
+#### 下一步要做什么呢？
+安装完所有必要的东西，你还需要知道图表的基础配置和数据的规范，请移步[API指南](chapter2.md)
 
 
 
