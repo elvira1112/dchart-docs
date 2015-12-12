@@ -29,6 +29,8 @@
 
 5. 绘制图表
 ```javascript
-    var Chart = 
+    var Chart = require('dchart-core/bar/bar');
+    var chart = new Chart('#selector', options);
+    chart.render(data);
 ```
 
