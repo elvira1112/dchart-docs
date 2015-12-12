@@ -1,2 +1,3 @@
-# 核心core
+# API指南
+## dchart全局配置
 
