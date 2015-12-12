@@ -19,5 +19,29 @@
 #### options.margin
 类型：`object`
 
-类似于css中的margin, 用来设置图表中的边距。[图表结构]()
+类似于css中的margin, 用来设置图表中的边距。[图表结构]()详情请戳我。
 
+#### options.width
+类型：`number`
+
+用于设置图表画布的宽度。
+
+#### options.height
+类型：`number`
+
+用于设置图表画布的高度。
+
+#### options.withAnimated
+类型：`number`
+
+#### options.animatedEasing
+类型：`number`
+
+#### options.animatedTiming
+类型：`number`
+
+#### options.withInteract
+类型：`number`
+
+#### options.theme
+类型：`number`
