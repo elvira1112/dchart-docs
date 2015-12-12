@@ -7,5 +7,5 @@
    * [文档结构](plugin/construct.md)
    * [图表](plugin/chart.md)
    * [挂件](plugin/wedget.md)
-   * 
+   * [数据](plugin/data.md)
 
