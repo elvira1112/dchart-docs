@@ -8,5 +8,6 @@
    * [图表](plugin/chart.md)
    * [挂件](plugin/wedget/readme.md)
        * [轴](plugin/wedget/axis.md)
+       * [背景](plugin/wedget/bg.md)
    * [数据](plugin/data.md)
 
