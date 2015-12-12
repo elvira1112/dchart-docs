@@ -68,4 +68,18 @@
 ## chart.destroy()
 销毁图表命令。
 
-## 
+## chart.on(event_name, func)
+图表监听事件，实现方法。
+
+#### event_name
+监听事件列表：
+
+| 事件名 | 参数 | 说明 |
+| -- | -- | -- |
+| before.render | 无 | 在核心绘制前做的事情 |
+| start.beforerender | 无 | 在beforeRender前做的事情 |
+| end.beforerender | 无 | 在beforeRender后做的事情 |
+| after.render | 无 | 在核心绘制后做的事情 |
+| start.afterrender | 无 | 在afterRende前做的事情 |
+| end.afterrender | 无 | 在afterRender后做的事情 |
+
