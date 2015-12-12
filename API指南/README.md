@@ -93,3 +93,4 @@ DOM结点。
 
 
 ## chart.destroy()
+销毁图表命令。
