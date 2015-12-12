@@ -24,12 +24,11 @@
             enableCss: true,  // enbale require css file
             timeout: 20000    // load resource timeout
         });
-        Cube.use('index.js', function (App) {
-            var chart = new App('#chart');
-            chart.render();
-        });
     })();
 ```
 
-5. 
+5. 绘制图表
+```javascript
+    var Chart = 
+```
 
