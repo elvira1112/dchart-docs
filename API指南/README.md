@@ -86,5 +86,5 @@
 | series_click | data, event | 点击核心单元事件 |
 | series_mouseenter | data, event | 鼠标进入核心单元事件 |
 | series_mouseover | data, event | 鼠标移过核心单元事件 |
-| series_mouseleave | data, event | 鼠标核心单元事件 |
+| series_mouseleave | data, event | 鼠标离开核心单元事件 |
 
