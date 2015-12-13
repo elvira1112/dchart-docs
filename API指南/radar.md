@@ -34,8 +34,6 @@
 
 radar的label
 
-![](pie-demo.png)
-
 ##### options.paxis.dr
 类型：`number`
 
