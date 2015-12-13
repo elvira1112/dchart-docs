@@ -29,10 +29,10 @@
 
 默认为0。
 
-##### options.paxis
+##### options.rlabel
 类型：`object`
 
-特殊文字排版，默认为null。
+radar的label
 
 ![](pie-demo.png)
 
