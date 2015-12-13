@@ -20,12 +20,12 @@
 默认为"y"。radar的y轴。
 
 ##### options.raxis.min
-类型：`string`
+类型：`number`
 
 默认为0。
 
 ##### options.raxis.dr
-类型：`string`
+类型：`number`
 
 默认为0。
 
