@@ -53,7 +53,7 @@
 ### line.destroy()
 与[chart.destroy()](./chart.md)一样。
 
-### bar.on(event_name, func)
+### line.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
 
 ## 数据类型
