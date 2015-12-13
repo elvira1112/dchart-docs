@@ -1,5 +1,6 @@
 # bar
 
+## 基本
 
 ### new Bar(selector[, options])
 
