@@ -24,7 +24,7 @@
 
 特殊文字排版，默认为null。
 
-![](pie.png)
+![](pie-demo.png)
 
 ##### options.paxis.dr
 类型：`number`
