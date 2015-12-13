@@ -14,7 +14,7 @@
 #### options
 类型：`object`
 
-##### options.xaxis.key
+##### options.pyaxis.key
 类型：`string`
 
 默认为"x"。
