@@ -36,7 +36,7 @@
 
 
 ### bar.destroy()
-与[chart.destroy([data])](./chart.md)一样。
+与[chart.destroy()](./chart.md)一样。
 
 ### bar.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
