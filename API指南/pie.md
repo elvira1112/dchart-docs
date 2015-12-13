@@ -56,6 +56,11 @@ pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
 
 半径间距
 
+#### options.arc.padAngle
+类型：`number`
+
+角度间距
+
 
 ### area.data([data])
 与[chart.data([data])](./chart.md)一样。
