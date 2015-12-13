@@ -34,15 +34,10 @@
 
 radar的label
 
-##### options.paxis.dr
+##### options.rlabel.key
 类型：`number`
 
-折线转角处距离圆心的距离。
-
-##### options.paxis.dx
-类型：`number`
-
-文字距离圆心的水平距离。
+label的key
 
 #### options.arc
 类型：`object`
