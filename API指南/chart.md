@@ -2,7 +2,7 @@
 
 ## new Chart(selector[, options])
 
-生成Chart实例，Chart可能为Bar,Pie,Radar等(图表种类请移步[目录结构](../plugin/construct.md))。
+生成Chart实例，Chart可能为Bar,Pie,Radar等(图表种类请移步[目录结构](./README.md))。
 
 ### selector
 类型：`string`或`object`
