@@ -40,7 +40,7 @@
 ##### options.yaxis.orient
 类型：`string`
 
-默认为"left"型。
+默认为"left"。
 
 ### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
