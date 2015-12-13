@@ -42,15 +42,15 @@
 
 默认为"left"。
 
-### bar.data([data])
+### line.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### bar.render([data])
+### line.render([data])
 
 与[chart.render([data])](./chart.md)一样。
 
 
-### bar.destroy()
+### line.destroy()
 与[chart.destroy()](./chart.md)一样。
 
 ### bar.on(event_name, func)
