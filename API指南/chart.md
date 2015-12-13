@@ -78,6 +78,10 @@ x轴显示的是name字段，所以需要设置key:"name"。
 
 x轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin/wedget/axis.md)。
 
+#### options.xaxis.orient
+类型：`string`
+
+
 ## chart.data([data])
 
 用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
