@@ -49,18 +49,18 @@
 
 默认为"left"。
 
-### line.data([data])
+### area.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### line.render([data])
+### area.render([data])
 
 与[chart.render([data])](./chart.md)一样。
 
 
-### line.destroy()
+### area.destroy()
 与[chart.destroy()](./chart.md)一样。
 
-### line.on(event_name, func)
+### area.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
 
 ## 数据类型
