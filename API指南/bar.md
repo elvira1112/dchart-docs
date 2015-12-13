@@ -41,4 +41,7 @@
 ### bar.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
 
+## 数据类型
+
+
 
