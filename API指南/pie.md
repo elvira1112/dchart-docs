@@ -24,9 +24,15 @@
 
 默认为null。
 
+![](pie.png)
+
 ##### options.paxis.dr
+类型：`number`
+
+
 
 ##### options.paxis.dx
+类型：`number`
 
 ### area.data([data])
 与[chart.data([data])](./chart.md)一样。
