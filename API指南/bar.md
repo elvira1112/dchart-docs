@@ -13,3 +13,7 @@
 #### options.xaxis.key
 类型：`string`
 
+默认为"x"。
+
+#### options.xaxis.type
+类型：`string`
