@@ -17,22 +17,16 @@
 ##### options.pyaxis.key
 类型：`string`
 
-默认为"y"。
+默认为"y"。pie的y轴。
 
 ##### options.paxis
 类型：`object`
 
 默认为null。
 
-##### options.yaxis.type
-类型：`string`
+##### options.paxis.dr
 
-默认为"default"。
-
-##### options.yaxis.orient
-类型：`string`
-
-默认为"left"。
+##### options.paxis.dx
 
 ### area.data([data])
 与[chart.data([data])](./chart.md)一样。
