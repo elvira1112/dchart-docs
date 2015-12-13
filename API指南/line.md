@@ -20,7 +20,7 @@
 ##### options.xaxis.type
 类型：`string`
 
-默认为"category", 类目型。即{"周一", "周二", "周三"...}这种类型。
+默认为"default"。
 
 ##### options.xaxis.orient
 类型：`string`
