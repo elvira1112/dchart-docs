@@ -73,6 +73,8 @@ example:
 x轴显示的是name字段，所以需要设置key:"name"。
 ```
 
+#### options.xaxis.key
+
 ## chart.data([data])
 
 用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
