@@ -17,7 +17,7 @@
 ##### options.raxis.key
 类型：`string`
 
-默认为"y"。pie的y轴。
+默认为"y"。radar的y轴。
 
 ##### options.paxis
 类型：`object`
