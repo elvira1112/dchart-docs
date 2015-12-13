@@ -50,6 +50,7 @@
 默认为"left"。
 
 ##### options.raxis.key
+类型：`string`
 
 ### scatterplot.data([data])
 与[chart.data([data])](./chart.md)一样。
