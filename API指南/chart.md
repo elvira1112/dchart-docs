@@ -19,7 +19,9 @@
 #### options.margin
 类型：`object`
 
-类似于css中的margin, 用来设置图表中的边距。[图表结构]()详情请戳我。
+类似于css中的margig，内部含left，top，right，bottom。
+
+用来设置图表中的边距。[图表结构]()详情请戳我。
 
 #### options.width
 类型：`number`
