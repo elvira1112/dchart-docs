@@ -17,7 +17,7 @@
 ##### options.interpolate
 类型：`string`
 
-
+线条类型。
 
 ##### options.xaxis.key
 类型：`string`
