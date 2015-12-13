@@ -10,7 +10,7 @@
    * [scatterplot](API指南/scatterplot.md)
    * [pie](API指南/pie.md)
    * [radar](API指南/radar.md)
-   * [number](API指南/number)
+   * [number](API指南/number.md)
 * [高级技巧](plugin/README.md)
    * [图表](plugin/chart.md)
    * [挂件](plugin/wedget/readme.md)
