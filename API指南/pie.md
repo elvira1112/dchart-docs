@@ -46,7 +46,12 @@ pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
 
 内半径。
 
-#### options.arc.innerRadius
+#### options.arc.outerRadius
+类型：`number`
+
+外半径。
+
+
 
 
 ### area.data([data])
