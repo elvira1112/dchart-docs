@@ -22,7 +22,7 @@
 ##### options.paxis
 类型：`object`
 
-默认为"y"。
+默认为null。
 
 ##### options.yaxis.type
 类型：`string`
