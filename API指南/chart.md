@@ -96,7 +96,7 @@ y轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin
 #### options.yaxis.orient
 类型：`string`
 
-y轴的方向，默认为“bottom”。
+y轴的方向，默认为“left”。
 
 ## chart.data([data])
 
