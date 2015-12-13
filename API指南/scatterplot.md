@@ -52,7 +52,7 @@
 ##### options.raxis.key
 类型：`string`
 
-半径的key。
+半径的key。可以无，无默认为点图。
 
 ### scatterplot.data([data])
 与[chart.data([data])](./chart.md)一样。
