@@ -2,7 +2,7 @@
 
 ## 基本方法
 
-### new Bar(selector[, options])
+### new Line(selector[, options])
 
 #### selector
 类型：`string`或`object`
