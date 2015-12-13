@@ -19,16 +19,6 @@
 
 默认为"y"。
 
-##### options.xaxis.type
-类型：`string`
-
-默认为"default"，也可以为"time"。
-
-##### options.xaxis.orient
-类型：`string`
-
-默认为"bottom"型。
-
 ##### options.yaxis.key
 类型：`string`
 
