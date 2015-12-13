@@ -68,7 +68,7 @@ example:
     {name : "牛逼", age: 19}
   ];
   
-x轴显示的是name字段，所以需要设置key:"name"
+x轴显示的是name字段，所以需要设置key:"name"。
 ```
 
 ## chart.data([data])
