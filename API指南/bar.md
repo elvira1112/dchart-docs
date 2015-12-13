@@ -25,3 +25,4 @@
 
 默认为"bottom"型。
 
+## bar.data([data])
