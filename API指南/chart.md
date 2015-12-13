@@ -91,7 +91,7 @@ y轴key，key即y轴数据对应于数据项中的字段，默认为y。
 #### options.yaxis.type
 类型：`string`
 
-x轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin/wedget/axis.md)。
+y轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin/wedget/axis.md)。
 
 ## chart.data([data])
 
