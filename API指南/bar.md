@@ -47,12 +47,12 @@
 ```json
 [
     {x: "周一", account: 120},
-    {x: "周二", account: 120},
-    {x: "周三", account: 120},
-    {x: "周四", account: 120},
-    {x: "周五", account: 120},
-    {x: "周六", account: 120},
-    {x: "周日", account: 120}
+    {x: "周二", account: 100},
+    {x: "周三", account: 123},
+    {x: "周四", account: 112},
+    {x: "周五", account: 103},
+    {x: "周六", account: 135},
+    {x: "周日", account: 131}
 ]
 ```
 
