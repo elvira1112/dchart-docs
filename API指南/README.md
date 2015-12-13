@@ -22,6 +22,7 @@
 ## API使用
 
 ## 全局方法
-* [new Chart()]
+* [new Chart(selector[, options])](./chart.md)
+* []
 
 
