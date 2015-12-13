@@ -86,7 +86,7 @@ x轴的方向，默认为“left”。
 #### options.yaxis.key
 类型：`string`
 
-
+y轴key，key即y轴数据对应于数据项中的字段，默认为y。
 
 ## chart.data([data])
 
