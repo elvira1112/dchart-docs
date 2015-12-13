@@ -4,7 +4,7 @@
 
 ## 基本方法
 
-### new Pie(selector[, options])
+### new Radar(selector[, options])
 
 #### selector
 类型：`string`或`object`
