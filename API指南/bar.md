@@ -28,4 +28,4 @@
 默认为"bottom"型。
 
 ### bar.data([data])
-与[chart.data([data])](../chart.md)
+与[chart.data([data])](./chart.md)
