@@ -24,6 +24,11 @@
 
 默认为0。
 
+##### options.raxis.dr
+类型：`string`
+
+默认为0。
+
 ##### options.paxis
 类型：`object`
 
