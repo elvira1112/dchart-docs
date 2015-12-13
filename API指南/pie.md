@@ -36,6 +36,13 @@
 
 文字距离圆心的水平距离。
 
+#### options.arc
+类型：`object`
+
+pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)
+
+
+
 ### area.data([data])
 与[chart.data([data])](./chart.md)一样。
 
