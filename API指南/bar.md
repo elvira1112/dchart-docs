@@ -30,7 +30,7 @@
 ##### options.yaxis.key
 类型：`string`
 
-默认为"x"。
+默认为"y"。
 
 ##### options.yaxis.type
 类型：`string`
