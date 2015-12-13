@@ -30,9 +30,9 @@
 ### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### chart.render([data])
+### bar.render([data])
 
-与[bar.render([data])](./chart.md)一样。
+与[chart.render([data])](./chart.md)一样。
 
 
 ### bar.destroy()
