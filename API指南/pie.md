@@ -29,10 +29,12 @@
 ##### options.paxis.dr
 类型：`number`
 
-
+折线转角处距离圆心的距离。
 
 ##### options.paxis.dx
 类型：`number`
+
+文字距离圆心的水平距离。
 
 ### area.data([data])
 与[chart.data([data])](./chart.md)一样。
