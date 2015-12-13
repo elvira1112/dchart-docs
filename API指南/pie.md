@@ -19,8 +19,8 @@
 
 默认为"y"。
 
-##### options.yaxis.key
-类型：`string`
+##### options.paxis
+类型：`object`
 
 默认为"y"。
 
