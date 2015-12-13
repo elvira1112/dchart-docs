@@ -8,3 +8,4 @@
 同new Chart(selector[, options]) 的selector一样
 
 ### options
+类型：`object`
