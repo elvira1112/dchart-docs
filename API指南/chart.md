@@ -74,6 +74,9 @@ x轴显示的是name字段，所以需要设置key:"name"。
 ```
 
 #### options.xaxis.type
+类型：`string`
+
+x轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin/wedget/axis.md)
 
 ## chart.data([data])
 
