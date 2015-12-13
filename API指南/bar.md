@@ -30,15 +30,15 @@
 ### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### chart.render([data])
+### bar.render([data])
 
-图表绘制命令，可以带数据，也可以不带（一般不带是已经用过chart.data(data)方法了）
+与[bar.render([data])](./chart.md)一样。
 
 
-### chart.destroy()
-销毁图表命令。
+### bar.destroy()
+与[chart.destroy([data])](./chart.md)一样。
 
-### chart.on(event_name, func)
-图表监听事件，实现方法。
+### bar.on(event_name, func)
+与[chart.on(event_name, func)](./chart.md)一样。
 
 
