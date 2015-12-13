@@ -2,7 +2,7 @@
 
 ## 基本方法
 
-### new Area(selector[, options])
+### new Scatterplot(selector[, options])
 
 #### selector
 类型：`string`或`object`
