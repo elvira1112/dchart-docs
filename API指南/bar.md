@@ -27,6 +27,21 @@
 
 默认为"bottom"型。
 
+##### options.yaxis.key
+类型：`string`
+
+默认为"x"。
+
+##### options.yaxis.type
+类型：`string`
+
+默认为"default"。
+
+##### options.yaxis.orient
+类型：`string`
+
+默认为"bottom"型。
+
 ### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
 
