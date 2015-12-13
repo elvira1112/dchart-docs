@@ -1,10 +1,10 @@
 # pie
 
-
+![](pies_3.png)
 
 ## 基本方法
 
-### new Area(selector[, options])
+### new Pie(selector[, options])
 
 #### selector
 类型：`string`或`object`
