@@ -1,5 +1,7 @@
 # bar
 
+![](bar_basic.png)
+
 ## 基本方法
 
 ### new Bar(selector[, options])
