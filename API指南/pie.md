@@ -39,7 +39,12 @@
 #### options.arc
 类型：`object`
 
-pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)
+pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
+
+
+#### options.arc.radius
+类型：`number`
+
 
 
 
