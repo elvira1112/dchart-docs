@@ -17,7 +17,7 @@
 ##### options.interpolate
 类型：`string`
 
-线条类型。默认为"basic"。
+线条类型。默认为"basic"-圆滑的。
 
 ##### options.xaxis.key
 类型：`string`
