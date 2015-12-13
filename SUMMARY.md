@@ -8,7 +8,7 @@
    * [line](API指南/line.md)
    * [area](API指南/area.md)
    * [pie](API指南/pie.md)
-   * [scatterplot](API指南/scatterplot)
+   * [scatterplot](API指南/scatterplot.md)
    * [radar](API指南/radar)
    * [number](API指南/number)
 * [高级技巧](plugin/README.md)
