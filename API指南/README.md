@@ -26,5 +26,6 @@
 * [chart.data([data])](./chart.md)
 * [chart.render([data])](./chart.md)
 * [chart.destroy()](./chart.md)
+* 
 
 
