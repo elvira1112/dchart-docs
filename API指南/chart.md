@@ -73,7 +73,7 @@ example:
 x轴显示的是name字段，所以需要设置key:"name"。
 ```
 
-#### options.xaxis.key
+#### options.xaxis.type
 
 ## chart.data([data])
 
