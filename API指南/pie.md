@@ -17,7 +17,7 @@
 ##### options.pyaxis.key
 类型：`string`
 
-默认为"x"。
+默认为"y"。
 
 ##### options.xaxis.type
 类型：`string`
