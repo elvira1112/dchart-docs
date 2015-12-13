@@ -27,8 +27,18 @@
 
 默认为"bottom"型。
 
-### bar.data([data])
+#### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
 
+## chart.render([data])
+
+图表绘制命令，可以带数据，也可以不带（一般不带是已经用过chart.data(data)方法了）
+
+
+## chart.destroy()
+销毁图表命令。
+
+## chart.on(event_name, func)
+图表监听事件，实现方法。
 
 
