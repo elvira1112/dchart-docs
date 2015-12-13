@@ -41,7 +41,6 @@
 
 pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
 
-
 #### options.arc.innerRadius
 类型：`number`
 
