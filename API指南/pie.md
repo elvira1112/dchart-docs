@@ -22,7 +22,7 @@
 ##### options.paxis
 类型：`object`
 
-默认为null。
+特殊文字排版，默认为null。
 
 ![](pie.png)
 
