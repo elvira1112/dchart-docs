@@ -28,5 +28,7 @@
 默认为"bottom"型。
 
 ### bar.data([data])
-与[chart.data([data])](./chart.md)一样。用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
+与[chart.data([data])](./chart.md)一样。
+
+
 
