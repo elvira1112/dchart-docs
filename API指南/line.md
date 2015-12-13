@@ -1,5 +1,7 @@
 # line
 
+![](lines_2.png)
+
 ## 基本方法
 
 ### new Line(selector[, options])
