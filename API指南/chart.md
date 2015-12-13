@@ -93,6 +93,11 @@ y轴key，key即y轴数据对应于数据项中的字段，默认为y。
 
 y轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin/wedget/axis.md)。
 
+#### options.yaxis.orient
+类型：`string`
+
+x轴的方向，默认为“bottom”。
+
 ## chart.data([data])
 
 用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
