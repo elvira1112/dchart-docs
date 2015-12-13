@@ -1,5 +1,6 @@
 # area
 
+![](lines_3.png)
 
 ## 基本方法
 
@@ -16,7 +17,7 @@
 ##### options.interpolate
 类型：`string`
 
-线条类型。默认为"basic"-圆滑的。
+边缘类型。默认为"basic"-圆滑的。
 
 ##### options.xaxis.key
 类型：`string`
