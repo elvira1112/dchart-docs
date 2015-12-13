@@ -84,6 +84,8 @@ x轴的类型，默认为“default”，具体其他类型请戳[轴](../plugin
 x轴的方向，默认为“left”。
 
 #### options.yaxis.key
+类型：`string`
+
 
 
 ## chart.data([data])
