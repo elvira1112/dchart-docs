@@ -10,3 +10,4 @@
 ### options
 类型：`object`
 
+### options.xaxis.key
