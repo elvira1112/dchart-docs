@@ -29,3 +29,4 @@
 
 ### bar.data([data])
 与[chart.data([data])](./chart.md)一样。
+
