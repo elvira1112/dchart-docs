@@ -1,5 +1,7 @@
 # scatterplot
 
+![](bubble_1.png)
+
 ## 基本方法
 
 ### new Scatterplot(selector[, options])
@@ -46,6 +48,8 @@
 类型：`string`
 
 默认为"left"。
+
+##### options.raxis.key
 
 ### scatterplot.data([data])
 与[chart.data([data])](./chart.md)一样。
