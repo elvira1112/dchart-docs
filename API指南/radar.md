@@ -14,7 +14,7 @@
 #### options
 类型：`object`
 
-##### options.pyaxis.key
+##### options.raxis.key
 类型：`string`
 
 默认为"y"。pie的y轴。
