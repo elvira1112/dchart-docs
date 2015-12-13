@@ -28,4 +28,7 @@
 * [chart.destroy()](./chart.md)
 * [chart.on(event_name, func)](./chart.md)
 
+## bar方法
+
+
 
