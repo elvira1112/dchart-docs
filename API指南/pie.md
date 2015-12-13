@@ -85,7 +85,7 @@ pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
 ### 单维
 ```json
 [
-    {x: "2015-11-05", account: 120},
+    {x: "普货", account: 120},
     {x: "2015-11-06", account: 100},
     {x: "2015-11-07", account: 123},
     {x: "2015-11-08", account: 112},
