@@ -14,6 +14,11 @@
 #### options
 类型：`object`
 
+##### options.interpolate
+类型：`string`
+
+
+
 ##### options.xaxis.key
 类型：`string`
 
