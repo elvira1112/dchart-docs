@@ -6,6 +6,7 @@
    * [chart](API指南/chart.md)
    * [bar](API指南/bar.md)
    * [line](API指南/line.md)
+   * [area](API指南/area)
 * [高级技巧](plugin/README.md)
    * [图表](plugin/chart.md)
    * [挂件](plugin/wedget/readme.md)
