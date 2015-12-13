@@ -6,7 +6,7 @@
    * [chart](API指南/chart.md)
    * [bar](API指南/bar.md)
    * [line](API指南/line.md)
-   * [area](API指南/area)
+   * [area](API指南/area.md)
    * [pie](API指南/pie)
    * [scatterplot](API指南/scatterplot)
    * [radar](API指南/radar)
