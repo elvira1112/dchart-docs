@@ -20,7 +20,7 @@
 ##### options.xaxis.type
 类型：`string`
 
-默认为"default"。
+默认为"default"，也可以为"time"。
 
 ##### options.xaxis.orient
 类型：`string`
