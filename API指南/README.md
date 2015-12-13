@@ -24,6 +24,6 @@
 ## 全局方法
 * [new Chart(selector[, options])](./chart.md)
 * [chart.data([data])](./chart.md)
-* 
+* [chart.render([data])](./chart.md)
 
 
