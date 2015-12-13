@@ -69,18 +69,18 @@ pie的扇形布局，详情请戳[Arc](../plugin/wedget/arc.md)。
 
 结束角度。
 
-### area.data([data])
+### radar.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### area.render([data])
+### radar.render([data])
 
 与[chart.render([data])](./chart.md)一样。
 
 
-### area.destroy()
+### radar.destroy()
 与[chart.destroy()](./chart.md)一样。
 
-### area.on(event_name, func)
+### radar.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
 
 ## 数据类型
