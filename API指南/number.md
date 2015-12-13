@@ -44,18 +44,18 @@
 
 默认为"left"。
 
-### bar.data([data])
+### number.data([data])
 与[chart.data([data])](./chart.md)一样。
 
-### bar.render([data])
+### number.render([data])
 
 与[chart.render([data])](./chart.md)一样。
 
 
-### bar.destroy()
+### number.destroy()
 与[chart.destroy()](./chart.md)一样。
 
-### bar.on(event_name, func)
+### number.on(event_name, func)
 与[chart.on(event_name, func)](./chart.md)一样。
 
 ## 数据类型
