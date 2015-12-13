@@ -56,6 +56,21 @@
 
 用于设置图表主题。
 
+#### options.xaxis.key
+类型：`string`
+
+x轴key，key即x轴数据对应于数据项中的字段，默认为x。
+
+```
+example:
+  data = [
+    {name : "逗比", age: 18},
+    {name : "牛逼", age: 19}
+  ];
+  
+x轴显示的是name字段，所以需要设置key:"name"
+```
+
 ## chart.data([data])
 
 用于设置或者获取图表数据。当data没有传入时，返回图表数据，当data传入时，设置图表数据。
